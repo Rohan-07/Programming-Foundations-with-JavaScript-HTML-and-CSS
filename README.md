@@ -10,7 +10,7 @@ In Week 2 only, for the code to be executed, code should be run at Duke Universi
 
 <hr>
 
-<h3>Update 03 Sept 2020:</h3>
+<h3>Update 04 Sept 2020:</h3>
 I finished the course in 4 weeks and it was a great experience. Here's <a href="https://www.coursera.org/account/accomplishments/verify/LBNXDMN5NDLC">the link to the Certificate.</a>
 
 <h3>What I learned in this course:</h3>
